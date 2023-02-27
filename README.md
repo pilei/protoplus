@@ -87,10 +87,14 @@ struct AddressBook {
 
 # 执行命令
 //获取源文件
+```
 go get -u -v github.com/davyxu/protoplus/cmd/protoplus
+```
 
 //生成protoplus.exe
+```
 go build -v github.com/davyxu/protoplus/cmd/protoplus
+```
 
 # 功能
 
